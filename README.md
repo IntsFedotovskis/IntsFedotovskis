@@ -1,6 +1,7 @@
 ### Hello there 👋
 
 I'm a a software developer currently working on developing my skills
+
 Current skillset:
 Git
 React
