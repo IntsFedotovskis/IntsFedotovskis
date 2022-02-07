@@ -2,8 +2,9 @@
 
 I'm a a software developer currently working on developing my skills
 
-You can reach me using:
-ints.fedotovskis@gmail.com
+You can reach me using
+
+:ints.fedotovskis@gmail.com
 
 :https://www.linkedin.com/in/ints-fedotovskis-a81332231/
 
