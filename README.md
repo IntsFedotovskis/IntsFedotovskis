@@ -1,5 +1,18 @@
 ### Hello there 👋
 
+I'm a a software developer currently working on developing my skills
+Current skillset:
+Git
+React
+JavaScript & TypeScript
+TDD
+HTTP
+HTML & CSS
+Clean Code
+NodeJS basics
+My current projects:
+FlightPlanner,
+Simple Sidescroller(A unity2D platformer)
 <!--
 **IntsFedotovskis/IntsFedotovskis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
