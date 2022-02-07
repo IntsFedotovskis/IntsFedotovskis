@@ -1,12 +1,12 @@
 ### Hello there 👋
 
-I'm a a software developer currently working on developing my skills
+I'm a a software developer currently working on developing my skills.
 
-You can reach me using
+You can reach me using:
 
-:ints.fedotovskis@gmail.com
+ints.fedotovskis@gmail.com
 
-:https://www.linkedin.com/in/ints-fedotovskis-a81332231/
+https://www.linkedin.com/in/ints-fedotovskis-a81332231/
 
 Current skillset:
 Git
