@@ -19,7 +19,9 @@ Clean Code
 NodeJS basics
 
 My current projects:
-FlightPlanner,
+
+FlightPlanner
+
 Simple Sidescroller(A unity2D platformer)
 <!--
 **IntsFedotovskis/IntsFedotovskis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
