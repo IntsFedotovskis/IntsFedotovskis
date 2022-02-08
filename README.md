@@ -1,13 +1,5 @@
 ### Hello there 👋
 
-I'm a a software developer currently working on developing my skills.
-
-You can reach me using:
-
-ints.fedotovskis@gmail.com
-
-https://www.linkedin.com/in/ints-fedotovskis-a81332231/
-
 Current skillset:
 Git
 React
@@ -23,6 +15,8 @@ My current projects:
 FlightPlanner
 
 Simple Sidescroller(A unity2D platformer)
+
+https://www.linkedin.com/in/ints-fedotovskis-a81332231/
 <!--
 **IntsFedotovskis/IntsFedotovskis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
