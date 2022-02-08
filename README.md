@@ -9,12 +9,13 @@ HTTP
 HTML & CSS
 Clean Code
 NodeJS basics
----
-My current projects:
 
+My current projects:
+---
 FlightPlanner
 
 Simple Sidescroller(A unity2D platformer)
+
 ---
 https://www.linkedin.com/in/ints-fedotovskis-a81332231/
 <!--
