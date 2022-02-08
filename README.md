@@ -1,6 +1,8 @@
 ### Hello there 👋
----
+
+
 Current skillset:
+---
 Git
 React
 JavaScript & TypeScript
