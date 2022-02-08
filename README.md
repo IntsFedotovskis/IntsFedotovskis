@@ -8,13 +8,15 @@
 Current skillset:
 ---
 Git
-React
-JavaScript & TypeScript
-TDD
-HTTP
-HTML & CSS
-Clean Code
-NodeJS basics
+C#
+.NET
+Relational Databases & SQL
+HTTP & Web API Basics
+Unit Testing
+Test Driven Development
+Clean Code, SOLID
+Design Patterns
+HTML & CSS, VueJS, TypeScript & NodeJS basics
 
 My current projects:
 ---
