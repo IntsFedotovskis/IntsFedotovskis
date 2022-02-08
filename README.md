@@ -1,5 +1,5 @@
 ### Hello there 👋
-
+---
 Current skillset:
 Git
 React
@@ -9,13 +9,13 @@ HTTP
 HTML & CSS
 Clean Code
 NodeJS basics
-
+---
 My current projects:
 
 FlightPlanner
 
 Simple Sidescroller(A unity2D platformer)
-
+---
 https://www.linkedin.com/in/ints-fedotovskis-a81332231/
 <!--
 **IntsFedotovskis/IntsFedotovskis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
