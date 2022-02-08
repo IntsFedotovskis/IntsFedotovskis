@@ -3,6 +3,8 @@
 
 Current skillset:
 ---
+---
+---
 Git
 React
 JavaScript & TypeScript
