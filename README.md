@@ -17,7 +17,7 @@ Unit Testing
 Test Driven Development
 Clean Code, SOLID
 Design Patterns
-HTML & CSS, VueJS, TypeScript & NodeJS basics
+HTML & CSS, Angular, TypeScript & NodeJS basics
 
 My current projects:
 ---
