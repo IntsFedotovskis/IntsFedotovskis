@@ -21,7 +21,7 @@ HTML & CSS, VueJS, TypeScript & NodeJS basics
 
 My current projects:
 ---
-FlightPlanner
+FlightPlanner(C#, ASP.NET Core Web API, SQL)
 
 Simple Sidescroller(A unity2D platformer)
 
